@@ -98,13 +98,13 @@ const addPeople = {
   
        
         if (answer.length === 0) {
-          return "Name should be a string and cannot be empty";
+          return "Name cannot be empty";
   
         };
   
        
         if (temp !== null) {
-          return "Name should not contain special characters or numbers";
+          return "Name can not have any special numbers or characters";
   
         }
   

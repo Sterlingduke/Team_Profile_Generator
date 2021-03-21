@@ -29,7 +29,7 @@ In the `Develop` folder, there is a `package.json`, so make sure to `npm install
 The dependencies are, [jest](https://jestjs.io/) for running the provided tests, and [inquirer](https://www.npmjs.com/package/inquirer) for collecting input from the user.
 
 There are also unit tests to help you build the classes necessary.
-
+   
 It is recommended that you follow this workflow:
 
 1. Run tests
